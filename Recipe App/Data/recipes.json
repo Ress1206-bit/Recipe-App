@@ -30,40 +30,6 @@
       ]
   },
   {
-      "name": "Mushroom Risotto",
-      "featured": true,
-      "image" : "mushroom risotto",
-      "description": "Authentic Italian-style risotto cooked the slow and painful way, but oh so worth it. ",
-      "prepTime": "20 minutes",
-      "cookTime": "30 minutes",
-      "totalTime": "50 minutes",
-      "servings": 6,
-      "highlights": [
-          "Creamy",
-          "Vegetarian"
-      ],
-      "ingredients": [
-          {"name": "Chicken broth", "num": 6, "unit": "cup"},
-          {"name": "Olive oil", "num": 3, "unit": "tablespoon"},
-          {"name": "Portobello mushrooms", "num": 1, "unit": "pound"},
-          {"name": "White mushrooms", "num": 1, "unit": "pound"},
-          {"name": "Shallots, diced", "num": 2},
-          {"name": "Arborio rice", "num": 3, "denom": 2, "unit": "cup"},
-          {"name": "Dry white wine", "num": 1, "denom": 2, "unit": "cup"},
-          {"name": "Sea salt", "unit": "To taste"},
-          {"name": "Black pepper", "unit": "To taste"},
-          {"name": "Chives, finely chopped", "num": 3, "unit": "tablespoon"},
-          {"name": "Butter", "num": 4, "unit": "tablespoon"},
-          {"name": "Parmesan cheese", "num": 1, "denom": 3, "unit": "cup"}
-      ],
-      "directions": [
-          "In a saucepan, warm the broth over low heat.",
-          "Warm 2 tablespoons olive oil in a large saucepan over medium-high heat. Stir in the mushrooms, and cook until soft, about 3 minutes. Remove mushrooms and their liquid, and set aside.",
-          "Add 1 tablespoon olive oil to skillet, and stir in the shallots. Cook 1 minute. Add rice, stirring to coat with oil, about 2 minutes. When the rice has taken on a pale, golden color, pour in wine, stirring constantly until the wine is fully absorbed. Add 1/2 cup broth to the rice, and stir until the broth is absorbed. Continue adding broth 1/2 cup at a time, stirring continuously, until the liquid is absorbed and the rice is al dente, about 15 to 20 minutes.",
-          "Remove from heat, and stir in mushrooms with their liquid, butter, chives, and parmesan. Season with salt and pepper to taste."
-      ]
-  },
-  {
       "name": "Baked Teriyaki Chicken",
       "featured": false,
       "image" : "chicken teriyaki",
@@ -242,6 +208,40 @@
           "Combine potato flesh with butter and green onion; stir until butter is melted evenly into potato. Add salt, black pepper, cayenne pepper, and cheese; stir until cheese is melted. Pour cream and egg yolk into potato mixture; mix to combine. Season with salt to taste.",
           "Place small piece of potato skin inside the bottom of each larger potato shell. Fill each potato with an equal amount of cheese mixture. Gently press the surface of the filling with a fork to create texture. Brush tops with melted butter and sprinkle with paprika.",
           "Bake stuffed potatoes until golden brown on top, 20 to 30 minutes."
+      ]
+  },
+  {
+      "name": "Mushroom Risotto",
+      "featured": true,
+      "image" : "mushroom risotto",
+      "description": "Authentic Italian-style risotto cooked the slow and painful way, but oh so worth it. ",
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "totalTime": "50 minutes",
+      "servings": 6,
+      "highlights": [
+          "Creamy",
+          "Vegetarian"
+      ],
+      "ingredients": [
+          {"name": "Chicken broth", "num": 6, "unit": "cup"},
+          {"name": "Olive oil", "num": 3, "unit": "tablespoon"},
+          {"name": "Portobello mushrooms", "num": 1, "unit": "pound"},
+          {"name": "White mushrooms", "num": 1, "unit": "pound"},
+          {"name": "Shallots, diced", "num": 2},
+          {"name": "Arborio rice", "num": 3, "denom": 2, "unit": "cup"},
+          {"name": "Dry white wine", "num": 1, "denom": 2, "unit": "cup"},
+          {"name": "Sea salt", "unit": "To taste"},
+          {"name": "Black pepper", "unit": "To taste"},
+          {"name": "Chives, finely chopped", "num": 3, "unit": "tablespoon"},
+          {"name": "Butter", "num": 4, "unit": "tablespoon"},
+          {"name": "Parmesan cheese", "num": 1, "denom": 3, "unit": "cup"}
+      ],
+      "directions": [
+          "In a saucepan, warm the broth over low heat.",
+          "Warm 2 tablespoons olive oil in a large saucepan over medium-high heat. Stir in the mushrooms, and cook until soft, about 3 minutes. Remove mushrooms and their liquid, and set aside.",
+          "Add 1 tablespoon olive oil to skillet, and stir in the shallots. Cook 1 minute. Add rice, stirring to coat with oil, about 2 minutes. When the rice has taken on a pale, golden color, pour in wine, stirring constantly until the wine is fully absorbed. Add 1/2 cup broth to the rice, and stir until the broth is absorbed. Continue adding broth 1/2 cup at a time, stirring continuously, until the liquid is absorbed and the rice is al dente, about 15 to 20 minutes.",
+          "Remove from heat, and stir in mushrooms with their liquid, butter, chives, and parmesan. Season with salt and pepper to taste."
       ]
   }
 ]
