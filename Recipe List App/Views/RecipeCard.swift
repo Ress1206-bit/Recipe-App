@@ -24,6 +24,7 @@ struct RecipeCard: View {
                         .aspectRatio(contentMode: .fill)
                         .clipped()
                     Text(recipe.name)
+                        .font(Font.custom("Avenir", size: 15))
                         .padding(5)
                 }
             }
