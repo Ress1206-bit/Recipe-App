@@ -210,7 +210,7 @@
   },
   {
       "name": "Twice-baked potatoes",
-      "featured": false,
+      "featured": true,
       "image" : "baked potato",
       "description": "A fantastic starchy side.",
       "prepTime": "30 minutes",
